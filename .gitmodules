@@ -1,0 +1,6 @@
+[submodule "src/DzCot"]
+	path = src/DzCot
+	url = https://github.com/Foreverflying/DzCot.git
+[submodule "docker/dev-llvm"]
+	path = docker/dev-llvm
+	url = https://github.com/Foreverflying/dev-llvm.git
